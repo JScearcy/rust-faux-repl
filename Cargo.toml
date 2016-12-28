@@ -1,0 +1,11 @@
+[package]
+name = "rcli"
+version = "0.1.0"
+authors = ["JScearcy <jacobscearcy@gmail.com>"]
+
+[dependencies]
+regex = "0.1.80"
+reqwest = "0.2.0"
+serde = "0.8.21"
+serde_json = "0.8.4"
+serde_derive = "0.8"
